@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tanmay Sharma
-- 👀 I’m interested in Software and Web Development
+- 👀 I’m interested in App and Web Development
 - 🌱 I’m currently learning Full Stack Web Development.
 - 💞️ I’m looking to collaborate on any open-source project.
 - 📫 How to reach me: sharmatanmay617@gmail.com
