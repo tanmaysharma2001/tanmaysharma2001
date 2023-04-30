@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tanmay Sharma
-- 👀 I’m interested in App and Web Development
-- 🌱 I’m currently learning Full Stack Web Development.
+- 👀 A Backend Developer with interest in Nodejs/Express and Python Django.
+- 🌱 I’m also a DevOps and Machine Learning Enthusiast.
 - 💞️ I’m looking to collaborate on any open-source project.
 - 📫 How to reach me: sharmatanmay617@gmail.com
 
