@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tanmay Sharma
-- 👀 A Backend Developer with interest in Nodejs/Express and Python Django.
+- 👀 A Backend Developer with interest in Golang and Nodejs/Express.
 - 🌱 I’m also a DevOps and Machine Learning Enthusiast.
 - 💞️ I’m looking to collaborate on any open-source project.
 - 📫 How to reach me: sharmatanmay617@gmail.com
