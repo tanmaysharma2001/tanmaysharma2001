@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tanmay Sharma
-- 👀 A Backend Developer with interest in Golang and Nodejs/Express.
+- 👀 A Fullstack Developer with expertise in MERN, Python and Rust.
 - 🌱 I’m also a DevOps and Machine Learning Enthusiast.
 - 💞️ I’m looking to collaborate on any open-source project.
 - 📫 How to reach me: sharmatanmay617@gmail.com
