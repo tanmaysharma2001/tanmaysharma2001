@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tanmay Sharma
 - 👀 A Fullstack Developer with expertise in MERN, Python and Rust.
 - 🌱 I’m also a DevOps and Machine Learning Enthusiast.
-- 💞️ I’m looking to collaborate on any open-source project.
+- 💞️ I’m looking to collaborate on any open-source project involving above technologies.
 - 📫 How to reach me: sharmatanmay617@gmail.com
 
 <!---
