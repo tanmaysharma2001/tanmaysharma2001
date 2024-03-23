@@ -1,5 +1,5 @@
 ```javascript
-setTimeout(() => {
+user.addEventListener("want to contact", () => {
   console.log('sharmatanmay617@gmail.com');
-}, 'Contact at:')
+});
 ```
